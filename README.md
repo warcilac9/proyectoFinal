@@ -10,5 +10,5 @@ Nuestra idea para el proyecto es hacer una red social parecida a twitter llamada
   - Sistema de reportes
 # Que hará cada intengrante
   - Shika sistema de publicaciones con like
-  - Carol User login
-  - Wilbert Sistema de reportes
+  - Wilbert User login
+  - Carol Sistema de reportes
