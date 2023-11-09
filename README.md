@@ -1,4 +1,4 @@
-# proyectoFinal 3er Semestres
+# proyectoFinal 3er Semestre
   - Shika Moriyama
   - Wilbert Arcila
   - Carol Torres
