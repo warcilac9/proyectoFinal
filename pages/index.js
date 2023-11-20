@@ -1,4 +1,6 @@
 import Sidebar from '@/components/Sidebar'
+import Feed from '@/components/Feed'
+import Post from '@/components/Post'
 import Head from 'next/head'
 import Image from 'next/image'
 
@@ -15,6 +17,7 @@ export default function Home() {
       {/* Sidebar */}
       <Sidebar/>
       {/* Feed */}
+      <Feed/>
       {/* Widgets */}
       {/* Modal */}
     </main>
