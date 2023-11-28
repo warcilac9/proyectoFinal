@@ -7,8 +7,8 @@ Nuestra idea para el proyecto es hacer una red social parecida a twitter llamada
   - Un sistema de user login
   - Se podrán hacer publicaciones fotos/texto
   - Sistema de me gusta/compartir/seguir
-  - Sistema de reportes
+  - Borrar posts
 # Que hará cada intengrante
   - Shika sistema de publicaciones con like
   - Wilbert User login
-  - Carol Sistema de reportes
+  - Carol Borrar posts
