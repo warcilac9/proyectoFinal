@@ -12,3 +12,7 @@ Nuestra idea para el proyecto es hacer una red social parecida a twitter llamada
   - Shika sistema de publicaciones con like
   - Wilbert User login
   - Carol Borrar posts
+# Lo que acabó haciendo cada persona
+  - Shika: Inicializar Next.js, creacion de Sidebar, Signin con Google Auth, correccion de bugs de algunos archivos con el material del video. 
+  - Will: Creación de Widgets, Noticias, inicialización de Firebase e integración con Google Auth.
+  - Carol: Creacion de Feed y de Post, comentarios y funcionalidad de Like
