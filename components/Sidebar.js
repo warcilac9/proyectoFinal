@@ -22,7 +22,7 @@ return (
         <Image
         width="50"
         height="50"
-        src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png"
+        src="https://th.bing.com/th/id/OIP.2ub37Bz8BTiEoI0Ux1xxcAAAAA?rs=1&pid=ImgDetMain"
         ></Image>
     </div>
       {/* Menu */}
