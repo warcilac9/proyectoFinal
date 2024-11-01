@@ -16,3 +16,12 @@ Nuestra idea para el proyecto es hacer una red social parecida a twitter llamada
   - Shika: Inicializar Next.js, creacion de Sidebar, Signin con Google Auth, correccion de bugs de algunos archivos con el material del video. 
   - Will: Creación de Widgets, Noticias, inicialización de Firebase e integración con Google Auth.
   - Carol: Creacion de Feed y de Post, comentarios y funcionalidad de Like
+
+# COmo hacer que funcione con local host
+
+Crear archivo llamado .env.local en root
+agregar siguientes lineas de código:
+
+GOOGLE_CLIENT_ID = 1049882314688-htnut64mbhd29n09dc6hr1ndab76rs8l.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET = 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
+ 
